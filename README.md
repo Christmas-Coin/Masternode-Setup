@@ -1,10 +1,9 @@
 # Christmas-Coin
----
+
 Shell script to install a [Christmas-Coin Masternode](https://christmas-coin.net/) on a Linux server running Ubuntu 16.04 or 18.04. Use it on your own risk.
 
----
 + [Masternode Setup Guide]
----
+
 This script install the Christmas-Coin cold wallet on your VPS, install unzip, htop and fail2ban, creates an autostart service for the daemon and configures the firewall.
 
 Prepare your Windows wallet:
