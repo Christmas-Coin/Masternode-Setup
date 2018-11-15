@@ -1,6 +1,7 @@
 # Christmas-Coin
 ---
 Shell script to install a [Christmas-Coin Masternode](https://christmas-coin.net/) on a Linux server running Ubuntu 16.04 or 18.04. Use it on your own risk.
+
 ---
 + [Masternode Setup Guide]
 ---
