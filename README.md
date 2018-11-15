@@ -1,2 +1,2 @@
 # MasternodeInstall
-Automatic Masternode Setup Script
+Masternode unattend installation 
