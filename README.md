@@ -8,6 +8,7 @@ This script install the Christmas-Coin cold wallet on your VPS, install unzip, h
 
 Prepare your Windows wallet:
 
+- Collateral: 1500 CHMC
 - Put to your masternode.conf: MN01 VPS_IP:23798 masternodegenkey masternodeoutputs
 
 ## Installation
