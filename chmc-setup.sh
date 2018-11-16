@@ -18,28 +18,6 @@ RED='\033[0;31m'
 GREEN='\033[0;32m'
 NC='\033[0m'
 
-progressfilt () {
-  local flag=false c count cr=$'\r' nl=$'\n'
-  while IFS='' read -d '' -rn 1 c
-  do
-    if $flag
-    then
-      printf '%c' "$c"
-    else
-      if [[ $c != $cr && $c != $nl ]]
-      then
-        count=0
-      else
-        ((count++))
-        if ((count > 1))
-        then
-          flag=true
-        fi
-      fi
-    fi
-  done
-}
-
 function delete_old_installation() {
   echo -e "${GREEN}Searching and removing old $COIN_NAME files and configurations${NC}"
   killall -9 $COIN_DAEMON > /dev/null 2>&1
