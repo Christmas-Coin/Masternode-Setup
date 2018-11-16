@@ -13,7 +13,7 @@ Prepare your Windows wallet:
 
 ## Installation
 ```
-wget https://github.com/Christmas-Coin/MasternodeInstall/raw/master/chmc-autoinstall.sh && bash chmc-autoinstall.sh
+wget https://github.com/Christmas-Coin/MasternodeInstall/raw/master/chmc-setup.sh && bash chmc-setup.sh
 ```
 ---
 ## Usage control script:
