@@ -29,6 +29,8 @@ wget https://github.com/Christmas-Coin/MasternodeInstall/raw/master/chmc-setup.s
 -f masternode status
 -g checks the blockcount
 -h help - usage for this script
+-i connection count
+-j wallet info
 -k firewall status
 -l show christmascoin.conf
 -m show firewall log
