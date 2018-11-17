@@ -66,7 +66,7 @@ Restart=always
 PrivateTmp=true
 TimeoutStopSec=60s
 TimeoutStartSec=10s
-StartLimitInterval=120s
+StartLimitInterval=60s
 StartLimitBurst=5
 
 [Install]
