@@ -13,13 +13,13 @@ Prepare your Windows wallet:
 
 ## Add Nodes for faster connection
 
-addnode=91.223.147.171
-addnode=80.211.240.1
-addnode=195.181.223.240
-addnode=80.211.46.133
-addnode=149.28.50.215
-addnode=149.28.142.158
-addnode=45.32.135.15
+addnode=91.223.147.171<br />
+addnode=80.211.240.1<br />
+addnode=195.181.223.240<br />
+addnode=80.211.46.133<br />
+addnode=149.28.50.215<br />
+addnode=149.28.142.158<br />
+addnode=45.32.135.15<br />
 
 ## Installation
 ```
