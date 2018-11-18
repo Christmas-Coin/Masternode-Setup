@@ -14,7 +14,7 @@ Prepare your Windows wallet:
 ## Add Nodes for faster connection
 
 addnode=91.223.147.171
-addnode=80.211.240.4
+addnode=80.211.240.1
 addnode=195.181.223.240
 addnode=80.211.46.133
 addnode=149.28.50.215
