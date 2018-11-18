@@ -11,7 +11,7 @@ Prepare your Windows wallet:
 - Collateral: 1500 CHMC
 - Put to your masternode.conf: MN01 VPS_IP:23798 masternodegenkey masternodeoutputs
 
-## AddNodes for faster connection
+## Add Nodes for faster connection
 
 addnode=91.223.147.171
 addnode=80.211.240.4
