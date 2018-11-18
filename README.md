@@ -11,6 +11,16 @@ Prepare your Windows wallet:
 - Collateral: 1500 CHMC
 - Put to your masternode.conf: MN01 VPS_IP:23798 masternodegenkey masternodeoutputs
 
+## AddNodes for faster connection
+
+addnode=91.223.147.171
+addnode=80.211.240.4
+addnode=195.181.223.240
+addnode=80.211.46.133
+addnode=149.28.50.215
+addnode=149.28.142.158
+addnode=45.32.135.15
+
 ## Installation
 ```
 wget https://github.com/Christmas-Coin/Masternode-Setup/raw/master/chmc-setup.sh && bash chmc-setup.sh
